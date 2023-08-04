@@ -9,6 +9,8 @@ public class Practice1 {
 		System.out.println("Happay NEW Year");
 		System.out.println("changes done");
 		System.out.println("Practice1");
+		
+		System.out.println("Practice1.hero()");
 	}
 
 }
