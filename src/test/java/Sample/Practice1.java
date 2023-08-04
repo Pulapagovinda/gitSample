@@ -11,6 +11,8 @@ public class Practice1 {
 		System.out.println("Practice1");
 		
 		System.out.println("Practice1.hero()");
+		
+		System.out.println("GitHub over with help of PR(PullRequest)");
 	}
 
 }
